@@ -1,0 +1,26 @@
+.MuiPaper-elevation.MuiPaper-rounded{
+    left: 1230px;
+    color: #4c5049;
+}
+.MuiButton-root.MuiButton-text {
+    color: #4c5049;
+}
+.NavBar {
+    display: inline-flex;
+}
+.NavigationMenu {
+    width: 64%;
+    margin: auto;
+    position: relative;
+    display: flex;
+}
+.NavContent {
+    background: #f5f4f1;
+    box-shadow: 0 2px 5px #00000042;
+    position: relative;
+}
+.MuiButtonBase-root.MuiButton-root.MuiButton-outlined {
+    position: absolute;
+    right: 0px;
+    bottom: -6px;
+}
