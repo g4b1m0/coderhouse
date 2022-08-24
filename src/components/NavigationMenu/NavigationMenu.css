@@ -19,7 +19,7 @@
     box-shadow: 0 2px 5px #00000042;
     position: relative;
 }
-.MuiButtonBase-root.MuiButton-root.MuiButton-outlined {
+.NavContent .MuiButtonBase-root.MuiButton-root.MuiButton-outlined {
     position: absolute;
     right: 0px;
     bottom: -6px;
