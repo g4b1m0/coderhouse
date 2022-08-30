@@ -23,7 +23,7 @@ function ItemCount({ stock, initial = 0, onAdd }) {
     // onAdd(result);
   };
   return (
-    <CardActionArea>
+    <CardActionArea component="section" className="item-count">
       <CardMedia
         component="img"
         width="50"

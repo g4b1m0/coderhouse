@@ -2,13 +2,14 @@
   text-align: center;
   margin: 0;
   color: #4c5049;
+  padding-top: 20px;
 }
 .ItemListContainer {
-  height: 100px;
+  height: 100%;
   width: 63%;
   margin: auto;
   background: #f5f4f1;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
 }

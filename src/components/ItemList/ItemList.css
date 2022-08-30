@@ -1,0 +1,16 @@
+.item-list__container{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 26px;
+}
+
+.item-list__container .MuiCardContent-root {
+padding: 9px 5px;
+color:  #4c5049;
+background:  #f5f4f1;
+}
+.item-list__container .MuiButton-root.MuiButton-outlined {
+    margin-bottom: 20px;
+    margin-top: 6px;
+}

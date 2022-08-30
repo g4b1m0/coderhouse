@@ -26,7 +26,7 @@
 .MuiTypography-h5.MuiTypography-gutterBottom {
     color:  #4c5049;
 }
-.MuiButtonBase-root.MuiCardActionArea-root  {
+.item-count.MuiButtonBase-root.MuiCardActionArea-root  {
     width: 27%;
     margin: auto;
     margin-top: 19px;
